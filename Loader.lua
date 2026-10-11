@@ -11,4 +11,4 @@ if game.PlaceId ~= SCP_PLACE then
     while true do task.wait(10) end
 end
 
-loadstring(game:HttpGet(BaseUrl .. "Games/SCP/Main.lua"))()
+loadstring(game:HttpGet(BaseUrl .. "main.lua"))()
