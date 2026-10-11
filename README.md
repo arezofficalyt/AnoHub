@@ -3,15 +3,14 @@
 > Best script for **SCP: Anomaly Site** on Roblox.
 
 ![Platform](https://img.shields.io/badge/platform-Roblox-blue)
-![Version](https://img.shields.io/badge/version-1.8-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
 ## 📖 About
 
-**AnoHub** — многофункциональный скрипт для **SCP: Anomaly Site**.  
-Включает аимбот, ESP, телепорты, автопрыжки, автосервер-хоп, ачивки и многое другое.
+**AnoHub** is a multi-functional script for **SCP: Anomaly Site**.  
+It includes aimbot, ESP, teleports, auto server hop, achievements and much more.
 
 ---
 
@@ -82,5 +81,4 @@
 
 ### Loadstring
 
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/adcg123m-prog/AnoHub/main/main.lua"))()
+and much more...
