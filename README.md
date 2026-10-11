@@ -75,10 +75,4 @@ It includes aimbot, ESP, teleports, auto server hop, achievements and much more.
 - Custom Cursor
 - Always On Top
 
----
-
-## 📦 Installation
-
-### Loadstring
-
 and much more...
