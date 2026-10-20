@@ -62,12 +62,6 @@ It includes aimbot, ESP, teleports, auto server hop, achievements and much more.
 - Part Remover
 - Auto Obtaining Mask (SCP-035)
 
-### 🏆 Achievements
-- 90+ achievements
-- XP + Level + Rank system
-- Daily Bonus with streak
-- Progress saving
-
 ### ⚙️ Settings
 - Theme Manager
 - Save Manager
