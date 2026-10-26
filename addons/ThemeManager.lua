@@ -107,7 +107,7 @@ local ThemeManager = {
         ["Anime"] = { 131, { FontColor = "ffffff", MainColor = "2b2b3d", AccentColor = "ff7eb3", BackgroundColor = "1a1a24", OutlineColor = "3d3d5c", BackgroundImage = "" } },
         ["Retro"] = { 132, { FontColor = "e5e5e5", MainColor = "2a1e2e", AccentColor = "ff9e00", BackgroundColor = "1a121c", OutlineColor = "3d2a42", BackgroundImage = "" } },
         ["Emerald"] = { 133, { FontColor = "ffffff", MainColor = "0d2e1a", AccentColor = "00e676", BackgroundColor = "05140c", OutlineColor = "1b4d2e", BackgroundImage = "" } },
-        ["Galaxy"] = { 134, { FontColor = "ffffff", MainColor = "1a0b2e", AccentColor = "d500f9", BackgroundColor = "0a0512", OutlineColor = "2e1a4d", BackgroundImage = "rbxassetid://7157153245" } },
+        ["Galaxy"] = { 134, { FontColor = "ffffff", MainColor = "1a0b2e", AccentColor = "d500f9", BackgroundColor = "0a0512", OutlineColor = "2e1a4d", BackgroundImage = "rbxassetid://10248444952" } },
         ["Rust"] = { 135, { FontColor = "ffffff", MainColor = "2e150d", AccentColor = "b7410e", BackgroundColor = "1a0a05", OutlineColor = "4d2b1b", BackgroundImage = "" } },
         ["Arctic"] = { 136, { FontColor = "ffffff", MainColor = "1c2b3a", AccentColor = "89cff0", BackgroundColor = "0d141c", OutlineColor = "2b4d6b", BackgroundImage = "" } },
         ["Crimson"] = { 137, { FontColor = "ffffff", MainColor = "3d0a0a", AccentColor = "dc143c", BackgroundColor = "1a0404", OutlineColor = "5c1a1a", BackgroundImage = "" } },
