@@ -69,9 +69,37 @@ local ThemeManager = {
         
         ["AnoHub Red"] = { 99, { FontColor = "ffffff", MainColor = "231414", AccentColor = "cd5c5c", BackgroundColor = "140f0f", OutlineColor = "3c1e1e", BackgroundImage = "" } },
         ["Boyfriend White"] = { 100, { FontColor = "000000", MainColor = "e8e8e8", AccentColor = "b0b0b0", BackgroundColor = "f0f0f0", OutlineColor = "a0a0a0", BackgroundImage = "" } },
-        ["Eclipse"] = { 101, { FontColor = "ffa800", MainColor = "050501", AccentColor = "ff4b00", BackgroundColor = "000000", OutlineColor = "713102", BackgroundImage = "rbxassetid://9614015066" } },
+        ["Eclipse"] = { 101, { FontColor = "ffffff", MainColor = "0f0f0f", AccentColor = "ffb291", BackgroundColor = "000000", OutlineColor = "000000", BackgroundImage = "rbxassetid://9614015066" } },
         ["Halloween"] = { 102, { FontColor = "ffffff", MainColor = "7e4e0f", AccentColor = "d76e00", BackgroundColor = "181111", OutlineColor = "412905", BackgroundImage = "rbxassetid://5873138434" } },
-        ["AnoHub Blue"] = { 103, { FontColor = "ffffff", MainColor = "1a2b4c", AccentColor = "3a86ff", BackgroundColor = "0f172a", OutlineColor = "2b3a5a", BackgroundImage = "" } }
+        ["AnoHub Blue"] = { 103, { FontColor = "ffffff", MainColor = "1a2b4c", AccentColor = "3a86ff", BackgroundColor = "0f172a", OutlineColor = "2b3a5a", BackgroundImage = "" } },
+        
+        ["Goose"] = { 104, { FontColor = "ffffff", MainColor = "404040", AccentColor = "ffffff", BackgroundColor = "3c3737", OutlineColor = "000000", BackgroundImage = "rbxassetid://6863553445" } },
+        ["Capybara"] = { 105, { FontColor = "ffffff", MainColor = "386a3c", AccentColor = "31e921", BackgroundColor = "494949", OutlineColor = "043200", BackgroundImage = "rbxassetid://9808645844" } },
+        ["Nya"] = { 106, { FontColor = "ffffff", MainColor = "001d40", AccentColor = "00abff", BackgroundColor = "0f0f0f", OutlineColor = "282828", BackgroundImage = "rbxassetid://71708511119374" } },
+        ["Rat"] = { 107, { FontColor = "ffffff", MainColor = "000000", AccentColor = "3e8846", BackgroundColor = "000000", OutlineColor = "323232", BackgroundImage = "rbxassetid://96328525673956" } },
+
+        ["Midnight"] = { 108, { FontColor = "ffffff", MainColor = "0a0a14", AccentColor = "6b5b95", BackgroundColor = "000000", OutlineColor = "1c1c2e", BackgroundImage = "" } },
+        ["Toxic"] = { 109, { FontColor = "ffffff", MainColor = "111a11", AccentColor = "39ff14", BackgroundColor = "050505", OutlineColor = "1a331a", BackgroundImage = "" } },
+        ["Blood Moon"] = { 110, { FontColor = "ffffff", MainColor = "1a0000", AccentColor = "ff0000", BackgroundColor = "0a0000", OutlineColor = "330000", BackgroundImage = "" } },
+        ["Hacker"] = { 111, { FontColor = "00ff00", MainColor = "000000", AccentColor = "00ff00", BackgroundColor = "000000", OutlineColor = "003300", BackgroundImage = "" } },
+        ["Ocean"] = { 112, { FontColor = "ffffff", MainColor = "001a33", AccentColor = "00ffff", BackgroundColor = "000d1a", OutlineColor = "003366", BackgroundImage = "" } },
+        ["Cyberpunk 2077"] = { 113, { FontColor = "ffffff", MainColor = "1a1a1a", AccentColor = "fcff00", BackgroundColor = "000000", OutlineColor = "ff00ff", BackgroundImage = "" } },
+        ["Sakura"] = { 114, { FontColor = "ffffff", MainColor = "2b1b26", AccentColor = "ffb7c5", BackgroundColor = "1a1016", OutlineColor = "4a2e42", BackgroundImage = "" } },
+        ["Dark Souls"] = { 115, { FontColor = "c5b39e", MainColor = "141210", AccentColor = "8c1e1e", BackgroundColor = "0a0908", OutlineColor = "2a261e", BackgroundImage = "" } },
+        ["AnoHub Purple"] = { 116, { FontColor = "ffffff", MainColor = "2b1b4a", AccentColor = "a000ff", BackgroundColor = "120a24", OutlineColor = "3d2b69", BackgroundImage = "" } },
+
+        ["Vaporwave"] = { 117, { FontColor = "ffffff", MainColor = "2d1b4e", AccentColor = "ff71ce", BackgroundColor = "1a0033", OutlineColor = "01cdfe", BackgroundImage = "" } },
+        ["Forest"] = { 118, { FontColor = "e0e0e0", MainColor = "1e2e1e", AccentColor = "4caf50", BackgroundColor = "0e170e", OutlineColor = "2e4e2e", BackgroundImage = "" } },
+        ["Lava"] = { 119, { FontColor = "ffffff", MainColor = "331100", AccentColor = "ff4500", BackgroundColor = "1a0800", OutlineColor = "662200", BackgroundImage = "" } },
+        ["Ice"] = { 120, { FontColor = "ffffff", MainColor = "1a2b3c", AccentColor = "00e5ff", BackgroundColor = "0a1520", OutlineColor = "2b4c6b", BackgroundImage = "" } },
+        ["Sunset"] = { 121, { FontColor = "ffffff", MainColor = "331a1a", AccentColor = "ff7b00", BackgroundColor = "1a0d0d", OutlineColor = "663333", BackgroundImage = "" } },
+        ["Ghost"] = { 122, { FontColor = "ffffff", MainColor = "1f1f1f", AccentColor = "00ffff", BackgroundColor = "0d0d0d", OutlineColor = "4d4d4d", BackgroundImage = "" } },
+        ["Neon Mint"] = { 123, { FontColor = "ffffff", MainColor = "0f2e2e", AccentColor = "39ff14", BackgroundColor = "051515", OutlineColor = "1e4d4d", BackgroundImage = "" } },
+        ["Royal Gold"] = { 124, { FontColor = "ffffff", MainColor = "2b2000", AccentColor = "ffd700", BackgroundColor = "0f0b00", OutlineColor = "4d3d00", BackgroundImage = "" } },
+        ["Pastel"] = { 125, { FontColor = "000000", MainColor = "ffe6f2", AccentColor = "b3a3ff", BackgroundColor = "fff0f5", OutlineColor = "e0b3d9", BackgroundImage = "" } },
+        ["Matrix"] = { 126, { FontColor = "ffffff", MainColor = "0a1f0a", AccentColor = "00ff41", BackgroundColor = "000000", OutlineColor = "003300", BackgroundImage = "" } },
+        ["Frost"] = { 127, { FontColor = "ffffff", MainColor = "1a2e3c", AccentColor = "b3e5fc", BackgroundColor = "0d1a24", OutlineColor = "2e4a5e", BackgroundImage = "" } },
+        ["Obsidian"] = { 128, { FontColor = "ffffff", MainColor = "0f0f0f", AccentColor = "333333", BackgroundColor = "000000", OutlineColor = "1a1a1a", BackgroundImage = "" } }
     }
 }
 
